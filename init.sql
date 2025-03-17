@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS my_database;
-USE my_database;
+CREATE DATABASE IF NOT EXISTS transport_db;
+USE transport_db;
 
 CREATE TABLE Type(
    Id_Type INT AUTO_INCREMENT PRIMARY KEY,
